@@ -9,14 +9,7 @@
     <p>Аты: Аман Нариман</p>
     <p>Группа: ФЕК 231 </p>
     <p>Штрих-код:6B01505</p>
-
-    <button onclick="openPortfolio()">Электрондық портфолио</button>
-
-    <script>
-        function openPortfolio() {
-            window.open("https://jandos99jm.wixsite.com/nariman-e-p", "_blank");
-        }
-    </script>
+    <p>Бұл портфолияда өзімнің жеке сайтым туралы</p>
 
 </body>
 </html>

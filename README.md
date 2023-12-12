@@ -1,5 +1,4 @@
 # queen
-<!DOCTYPE html>
 <html>
 <head>
     <title>Менің портфолием</title>
